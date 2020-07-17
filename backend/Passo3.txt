@@ -1,0 +1,9 @@
+------------------------------------- CRIANDO O DATABASE ---------------------------------------------
+INSTALAR O MONGOOSE PARA MONGODB - "npm install mongoose"
+
+DENTRO DA PASTA SRC
+    DENTRO DA PASTA CONFIG
+        CRIAR O ARQUIVO DATABASE.JS
+
+    DENTRO DA PASTA MODEL
+        CRIAR O ARQUIVO MODELO PARA GUARDAR OS DADOS NO BANCO - NESTE CASO O TASKMODEL.JS
